@@ -6,6 +6,7 @@
   I am detail-oriented, responsible, and thrive in social and service-oriented environments. I am highly engaged, analytical, and enjoy challenges.
 
   Experience
+  
   .Programming Languages & Tools:
    Experience with (C, Java, Python, SQL, and Astah).
 
@@ -13,8 +14,11 @@
    Strong expertise in network protocols, with practical experience in building projects that include TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and DHCP.
 
   Language Skills:
+  
   Arabic: fluently (both spoken and written).
+  
   English: Advanced (both spoken and written).
+  
   Swedish: Intermediate (both spoken and written).
 
   
