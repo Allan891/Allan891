@@ -8,7 +8,7 @@
  - Experience
   
    1. Programming Languages & Tools:
-      Experience with (C, Java, Python, SQL, and Astah).
+      Experience with (C, Java, Python, SQL, Prolog and Astah).
 
    2. Network Communication & Configurations:
       Expertise in network protocols, with practical experience in building projects that include TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and DHCP.
