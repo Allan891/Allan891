@@ -1,11 +1,14 @@
 - 👋 Hi, I’m Allan Al Saleh.
-- 🌱 I’m currently Student at KTH Royal Institute of Technology, a Master of Science in Civil Engineering with a specialization in Information and Communication Technology.
-- 👀 I’m interested in software development and Network Support.
-- ⚡ About Me:
- - My background as an electrical assembler, team leader, and traffic controller. Through these roles, I have gained experience in customer service, leadership, and teamwork.
-   I am detail-oriented, responsible, and thrive in social and service-oriented environments. I am highly engaged, analytical, and enjoy challenges.
 
- - Experience
+  About Me:
+  
+- 🌱 I’m currently Student at KTH Royal Institute of Technology, a Master of Science in Civil Engineering with a specialization in Information and Communication Technology. My
+     background as an electrical assembler, team leader, and traffic controller. Through these roles, I have gained experience in customer service, leadership, and teamwork.
+     I am detail-oriented, responsible, and thrive in social and service-oriented environments. I am highly engaged, analytical, and enjoy challenges.
+  
+- 👀 I’m interested in software development and Network Support.
+
+- ⚡ Experience:
   
    1. Programming Languages & Tools:
       Experience with (C, Java, Python, SQL, Prolog and Astah).
