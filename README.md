@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Allan
+- 👋 Hi, I’m Allan
 - 🌱 I’m currently Student at KTH Royal Institute of Technology, a Master of Science in Civil Engineering with a specialization in Information and Communication Technology.
 - 👀 I’m interested in software development and cybersecurity.
 - ⚡ About Me:
@@ -12,6 +12,6 @@
 
 
 <!---
-Allan891/Allan891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Allan/Allan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
