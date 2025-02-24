@@ -15,7 +15,7 @@
       
       (Pong game / with C).
 
-      (Program to find shortest rail-way btween two stations for the EU-network rail-way/ with Java).
+      (Program to find shortest rail-way between two stations for the EU-network rail-way/ with Java).
 
    3. Network Communication & Configurations:
       Experience with network protocols & analysis with Wireshark, with practical experience in building projects that include protocls (TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and          DHCP). Projects I built, such as:
