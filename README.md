@@ -15,13 +15,13 @@
       
       (Pong game / with C).
 
-      (Program to find shortest railway between two stations for the EU-network railway/ with Java).
+      (Program to find shortest railway between two stations for the EU-network railway / with Java).
 
       (ATM-machine / with Prolog).
 
 
    3. Network Communication & Configurations:
-      Experience with network protocols & analysis with Wireshark, with practical experience in building projects that include protocls (TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and          DHCP). Projects I built, such as:
+      Experience with network protocols & analysis (with Wireshark), with practical experience in building projects that include protocls (TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and        DHCP). Projects I built, such as:
 
       (TCP for clinet and server/ with Java)
 
