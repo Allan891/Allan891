@@ -23,7 +23,7 @@
    3. Network Communication & Configurations:
       Experience with network protocols & analysis (with Wireshark), with practical experience in building projects that include protocls (TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and        DHCP). Projects I built, such as:
 
-      (TCP for clinet and server/ with Java)
+      (TCP for client and server/ with Java).
 
 
 
