@@ -11,7 +11,7 @@
 - ⚡ Experience:
   
    1. Programming Languages & Tools:
-      Experience with many projects in (C, Java, Python, SQL, Prolog and Astah).
+      Experience with many building projects in (C, Java, Python, SQL, Prolog and Astah).
 
    2. Network Communication & Configurations:
       Experience with network protocols, with practical experience in building projects that include protocls (TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and DHCP).
