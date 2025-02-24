@@ -11,14 +11,14 @@
 - ⚡ Experience:
   
    1. Programming Languages & Tools:
-      Experience with multiple projects using (C, Java, Python, SQL, Prolog, and Astah). Projects I bulid it, such as:
+      Experience with multiple projects using (C, Java, Python, SQL, Prolog, and Astah). Some projects I have built include:
       
       (Pong game / with C).
 
       (Program to find shortest rail-way btween two stations for the EU-network rail-way/ with Java).
 
    3. Network Communication & Configurations:
-      Experience with network protocols & analysis with Wireshark, with practical experience in building projects that include protocls (TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and          DHCP). Projects I bulid it, such as:
+      Experience with network protocols & analysis with Wireshark, with practical experience in building projects that include protocls (TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and          DHCP). Projects I built, such as:
 
       (TCP for clinet and server/ with Java)
 
