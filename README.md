@@ -11,7 +11,7 @@
 - ⚡ Experience:
   
    1. Programming Languages & Tools:
-      Experience with multiple projects using (C, Java, Python, SQL, Prolog, and Astah). Some projects I have built include:
+      Experience with multiple projects using (C, Java, Python, SQL, Prolog, and Astah). Some projects I have built:
       
       (Pong game / with C).
 
