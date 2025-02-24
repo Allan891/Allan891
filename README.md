@@ -15,7 +15,7 @@
       
       (Pong game / with C).
 
-      (Program to find shortest rail-way between two stations for the EU-network rail-way/ with Java).
+      (Program to find shortest railway between two stations for the EU-network railway/ with Java).
 
       (ATM-machine / with Prolog).
 
