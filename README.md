@@ -16,7 +16,7 @@
    2. Network Communication & Configurations:
       Experience with network protocols, with practical experience in building projects that include protocls (TCP, HTTP, email (SMTP/IMAP/POP3), DNS, and DHCP).
 
-  
+  Email: Allan2@kth.se
 
 
 <!---
